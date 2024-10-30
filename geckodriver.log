@@ -1,0 +1,287 @@
+1730276216507	geckodriver	INFO	Listening on 127.0.0.1:58472
+1730276216797	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileQ3Q8QG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730276217388	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730276217810	Marionette	INFO	Listening on port 58617
+WebDriver BiDi listening on ws://127.0.0.1:58473
+Read port: 58617
+1730276217992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58473/devtools/browser/aa77a688-1290-4fb3-91ab-1c33bea81b8d
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730276362651	geckodriver	INFO	Listening on 127.0.0.1:59761
+1730276363167	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileRtfsfC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730276363589	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730276363893	Marionette	INFO	Listening on port 59773
+WebDriver BiDi listening on ws://127.0.0.1:59762
+Read port: 59773
+1730276364104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59762/devtools/browser/5a061eef-99ee-4918-8d6a-1bd7ad7d72ab
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730276373537	Marionette	INFO	Stopped listening on port 58617
+1730276376968	Marionette	INFO	Stopped listening on port 59773
+1730276379273	geckodriver	INFO	Listening on 127.0.0.1:60024
+1730276379794	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileI0txdy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730276380223	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730276380508	Marionette	INFO	Listening on port 60041
+WebDriver BiDi listening on ws://127.0.0.1:60025
+Read port: 60041
+1730276380638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60025/devtools/browser/4fc727bb-a0e5-4f8b-919d-25a95a020cdb
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730276815848	Marionette	INFO	Stopped listening on port 60041
+1730277081842	geckodriver	INFO	Listening on 127.0.0.1:63566
+1730277082358	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofile7fMCB6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730277082968	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730277083290	Marionette	INFO	Listening on port 63582
+Read port: 63582
+WebDriver BiDi listening on ws://127.0.0.1:63567
+1730277083393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63567/devtools/browser/cf1f8dc1-5caf-49c9-9dfc-d9e9a59f89d4
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730277088222	Marionette	INFO	Stopped listening on port 63582
+JavaScript warning: https://statics.itc.cn/spm/prod/js/1.0.2/index.js?_=1730277086066, line 1: Script terminated by timeout at:
+[118]</n/this._sender<@https://statics.itc.cn/spm/prod/js/1.0.2/index.js?_=1730277086066:1:30671
+
+1730277398923	geckodriver	INFO	Listening on 127.0.0.1:64992
+1730277399493	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileVHiq9H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730277400081	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730277400396	Marionette	INFO	Listening on port 65008
+WebDriver BiDi listening on ws://127.0.0.1:64993
+Read port: 65008
+1730277400596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64993/devtools/browser/97d8c414-3fb2-4c38-8e05-8b886f7fee15
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730277455139	Marionette	INFO	Stopped listening on port 65008
+JavaScript warning: https://statics.itc.cn/spm/prod/js/1.0.2/index.js?_=1730277403691, line 1: Script terminated by timeout at:
+[118]</n/this._sender<@https://statics.itc.cn/spm/prod/js/1.0.2/index.js?_=1730277403691:1:30626
+
+1730282115118	geckodriver	INFO	Listening on 127.0.0.1:50277
+1730282115611	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileIGeMbg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730282116301	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730282116722	Marionette	INFO	Listening on port 50317
+WebDriver BiDi listening on ws://127.0.0.1:50278
+Read port: 50317
+1730282116921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50278/devtools/browser/80e2d2b8-5b45-486e-9949-6c64d94d9d24
+1730282363356	geckodriver	INFO	Listening on 127.0.0.1:50627
+1730282363872	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileJ7XzJI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730282364310	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730282364681	Marionette	INFO	Listening on port 50636
+WebDriver BiDi listening on ws://127.0.0.1:50628
+Read port: 50636
+1730282364822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50628/devtools/browser/6d0b0f62-c006-4629-b840-f9bcf6c4915b
+1730282367287	Marionette	INFO	Stopped listening on port 50317
+1730282372092	Marionette	INFO	Stopped listening on port 50636
+1730282451608	geckodriver	INFO	Listening on 127.0.0.1:50740
+1730282452125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileejfI6V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730282452735	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730282453071	Marionette	INFO	Listening on port 50749
+WebDriver BiDi listening on ws://127.0.0.1:50741
+Read port: 50749
+1730282453362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50741/devtools/browser/62ae2810-24ea-4f6d-9699-0fbec1e9bdfb
+1730282680123	Marionette	INFO	Stopped listening on port 50749
+1730282682003	geckodriver	INFO	Listening on 127.0.0.1:50948
+1730282682522	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofilesKfMyx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730282682958	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730282683167	Marionette	INFO	Listening on port 50956
+WebDriver BiDi listening on ws://127.0.0.1:50949
+Read port: 50956
+1730282683382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50949/devtools/browser/2dbb6672-0418-41ce-93ef-ce940fc91ae3
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730282910054	geckodriver	INFO	Listening on 127.0.0.1:51148
+1730282910567	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileVyKdKY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730282911030	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730282911243	Marionette	INFO	Listening on port 51156
+Read port: 51156
+WebDriver BiDi listening on ws://127.0.0.1:51149
+1730282911370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51149/devtools/browser/5002f97a-3113-4e52-9422-a13001fd908d
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730283049679	Marionette	INFO	Stopped listening on port 51156
+1730283051045	Marionette	INFO	Stopped listening on port 50956
+1730283055378	geckodriver	INFO	Listening on 127.0.0.1:51252
+1730283055897	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofilef7Cj1B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730283056345	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730283056558	Marionette	INFO	Listening on port 51261
+Read port: 51261
+WebDriver BiDi listening on ws://127.0.0.1:51253
+1730283056706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51253/devtools/browser/8e5248ec-395a-47e4-b1a0-b33effa54de6
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730283118894	geckodriver	INFO	Listening on 127.0.0.1:51347
+1730283119409	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofile5eWir2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730283119884	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730283120105	Marionette	INFO	Listening on port 51355
+WebDriver BiDi listening on ws://127.0.0.1:51348
+Read port: 51355
+1730283120312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51348/devtools/browser/36d4af5c-5be2-4a17-9c93-d1d070bea9a8
+1730283166645	geckodriver	INFO	Listening on 127.0.0.1:51399
+1730283167151	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofileMMP6wi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730283167599	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730283167823	Marionette	INFO	Listening on port 51407
+Read port: 51407
+WebDriver BiDi listening on ws://127.0.0.1:51400
+1730283167961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51400/devtools/browser/b63a7b0c-b91f-459e-8c21-e31974d40d29
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730283973532	geckodriver	INFO	Listening on 127.0.0.1:51711
+1730283974071	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofilePI9PTT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730283974741	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730283975103	Marionette	INFO	Listening on port 51719
+Read port: 51719
+WebDriver BiDi listening on ws://127.0.0.1:51712
+1730283975172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51712/devtools/browser/1c1dc6ae-59d7-4032-b973-26914c74303d
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+1730283985573	Marionette	INFO	Stopped listening on port 51719
+1730283988041	Marionette	INFO	Stopped listening on port 51407
+2024-10-30 18:26:29.193 firefox[86426:7448065] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1730283989319	Marionette	INFO	Stopped listening on port 51355
+1730283990447	Marionette	INFO	Stopped listening on port 51261
+1730284004553	geckodriver	INFO	Listening on 127.0.0.1:51781
+1730284005068	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w4/ss2pdk_x7g33_9xlmdtvk2z80000gn/T/rust_mozprofile93ZBgt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730284005498	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1730284005700	Marionette	INFO	Listening on port 51789
+Read port: 51789
+WebDriver BiDi listening on ws://127.0.0.1:51782
+1730284005876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51782/devtools/browser/2de07854-3f65-452f-9743-55b46b48cc81
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: o[i][3] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 2: TypeError: data[1] is undefined
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+JavaScript error: https://static.k.sohu.com/static/finance/pc/qstock/v0.0.10/js/main/hq_sec-1.4.min.js, line 3: TypeError: commet_obj.stop is not a function
+1730284395761	Marionette	INFO	Stopped listening on port 51789
